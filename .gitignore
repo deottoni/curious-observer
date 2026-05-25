@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor artifacts
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Downloaded PDFs — stored locally, not committed to git
+research/papers/
+
+# Audio output files (when audio pipeline is active, these will be large)
+posts/audio-scripts/*.mp3
+posts/published/*.mp3
