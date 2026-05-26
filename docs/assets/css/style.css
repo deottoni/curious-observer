@@ -15,6 +15,14 @@
   --sans:    'Inter', system-ui, -apple-system, sans-serif;
 }
 
+[data-theme="dark"] {
+  --ink:    #ede9e4;
+  --paper:  #0d0c0b;
+  --accent: #a78bfa;
+  --rule:   #272220;
+  --muted:  #9e948e;
+}
+
 /* === RESET === */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 img { max-width: 100%; display: block; }
@@ -90,6 +98,24 @@ nav a {
 }
 
 nav a:hover { color: var(--accent); }
+
+.theme-toggle {
+  font-family: var(--mono);
+  font-size: 0.65rem;
+  font-weight: 400;
+  color: var(--muted);
+  background: none;
+  border: none;
+  cursor: pointer;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  padding: 0;
+  margin-left: 1.25rem;
+}
+
+.theme-toggle:hover { color: var(--accent); }
+
+[data-theme="dark"] .site-logo { filter: invert(1); }
 
 /* === HOME: LEDE === */
 .site-lede {

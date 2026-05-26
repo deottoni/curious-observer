@@ -9,6 +9,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@300;400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css">
+  <script>(function(){var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t);})();</script>
 </head>
 <body>
 
@@ -20,6 +21,7 @@
       </a>
       <nav>
         <a href="about.html">About</a>
+        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">Dark</button>
       </nav>
     </div>
   </header>
@@ -60,5 +62,18 @@
     </div>
   </footer>
 
+  <script>
+    (function() {
+      var btn = document.getElementById('theme-toggle');
+      var current = document.documentElement.getAttribute('data-theme') || 'light';
+      btn.textContent = current === 'dark' ? 'Light' : 'Dark';
+      btn.addEventListener('click', function() {
+        var next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', next);
+        localStorage.setItem('theme', next);
+        btn.textContent = next === 'dark' ? 'Light' : 'Dark';
+      });
+    })();
+  </script>
 </body>
 </html>
