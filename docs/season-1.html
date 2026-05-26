@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Season 1 — The Curious Observer</title>
+  <meta name="description" content="Six months, twelve posts, one question: does the methodology actually interest me?">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script>(function(){var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t);})();</script>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <a href="index.html" class="site-title">
+        <img src="assets/images/logo.png" alt="" class="site-logo">
+        The Curious Observer
+      </a>
+      <nav>
+        <a href="about.html">About</a>
+        <a href="season-1.html" class="nav-active">Season 1</a>
+        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode"></button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <div class="page-header">
+      <span class="label">The Lab</span>
+      <h1 class="page-title">Season 1</h1>
+      <p class="page-subtitle">Jun — Nov 2026</p>
+    </div>
+
+    <div class="page-body">
+      <p>I've been reading about psychology and human behavior for years — casually, inconsistently, the way most people engage with ideas they find interesting but never fully pursue. Good books, good podcasts, things that made me think. Never deeper than that.</p>
+      <p>Season 1 is the attempt to go deeper — and to do it seriously, with AI as a genuine research partner. There are two questions running in parallel. The first is about psychology: do I actually enjoy the methodology — reading papers, auditing methods, sitting with evidence — or just the high-level ideas? That's a real question, and six months of structured work should give me an honest answer. The result could mean a Master's application. Or it confirms this stays a rewarding intellectual hobby. Either outcome is fine; I just want to know. The second question is about AI: can a well-designed multi-agent system turn a curious non-academic into someone capable of engaging seriously with research literature? Season 1 is where both get tested.</p>
+      <p>The Curious Observer is bigger than this experiment. I'm naturally curious — there will be more to explore after November whether or not this ends with a grad school decision. But Season 1 has a specific shape: six books, twelve posts, one honest answer.</p>
+    </div>
+
+    <hr>
+
+    <section>
+      <span class="label">Progress</span>
+
+      <div class="timeline-track" id="timeline-track">
+        <div class="timeline-line"></div>
+
+        <div class="milestone" data-index="0">
+          <button class="milestone-dot" aria-expanded="false" aria-label="June — The Moral Mind"></button>
+          <div class="milestone-meta">
+            <span class="milestone-month">Jun</span>
+            <span class="milestone-book">Righteous Mind</span>
+          </div>
+        </div>
+
+        <div class="milestone" data-index="1">
+          <button class="milestone-dot" aria-expanded="false" aria-label="July — The Biology of Behavior"></button>
+          <div class="milestone-meta">
+            <span class="milestone-month">Jul</span>
+            <span class="milestone-book">Behave</span>
+          </div>
+        </div>
+
+        <div class="milestone" data-index="2">
+          <button class="milestone-dot" aria-expanded="false" aria-label="August — How We Actually Think"></button>
+          <div class="milestone-meta">
+            <span class="milestone-month">Aug</span>
+            <span class="milestone-book">Fast &amp; Slow</span>
+          </div>
+        </div>
+
+        <div class="milestone" data-index="3">
+          <button class="milestone-dot" aria-expanded="false" aria-label="September — Culture's Hidden Architecture"></button>
+          <div class="milestone-meta">
+            <span class="milestone-month">Sep</span>
+            <span class="milestone-book">WEIRDest</span>
+          </div>
+        </div>
+
+        <div class="milestone" data-index="4">
+          <button class="milestone-dot" aria-expanded="false" aria-label="October — Reading Science Honestly"></button>
+          <div class="milestone-meta">
+            <span class="milestone-month">Oct</span>
+            <span class="milestone-book">Elephant</span>
+          </div>
+        </div>
+
+        <div class="milestone" data-index="5">
+          <button class="milestone-dot" aria-expanded="false" aria-label="November — Where Do I Stand?"></button>
+          <div class="milestone-meta">
+            <span class="milestone-month">Nov</span>
+            <span class="milestone-book">Moral Tribes</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="milestone-drawer" id="milestone-drawer" hidden>
+        <div class="drawer-inner">
+          <div class="drawer-header">
+            <span class="drawer-month-text" id="dr-month"></span>
+            <span class="drawer-theme-text" id="dr-theme"></span>
+          </div>
+          <div class="drawer-rows">
+            <div class="drawer-row">
+              <span class="drawer-row-label">Book</span>
+              <span class="drawer-row-value" id="dr-book"></span>
+            </div>
+            <div class="drawer-row">
+              <span class="drawer-row-label">Papers</span>
+              <ul class="drawer-list" id="dr-papers"></ul>
+            </div>
+            <div class="drawer-row">
+              <span class="drawer-row-label">Posts</span>
+              <ul class="drawer-list" id="dr-posts"></ul>
+            </div>
+            <div class="drawer-row">
+              <span class="drawer-row-label">Skill</span>
+              <span class="drawer-row-value" id="dr-skill"></span>
+            </div>
+            <div class="drawer-row">
+              <span class="drawer-row-label">Status</span>
+              <span class="drawer-status" id="dr-status">
+                <span class="drawer-status-dot"></span>
+                <span id="dr-status-text">Not started</span>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <hr>
+
+    <section>
+      <span class="label">The Curriculum</span>
+
+      <div class="curriculum-month">
+        <span class="curriculum-month-label">Jun 2026 · Posts 1–2</span>
+        <h2 class="curriculum-month-title">The Moral Mind</h2>
+        <p class="curriculum-month-book">The Righteous Mind — Jonathan Haidt</p>
+        <div class="curriculum-body">
+          <p>Why people have different moral intuitions. Why reasoning follows feeling rather than leading it. How tribalism is a feature — not a bug — of human psychology, and what the six moral foundations actually explain about why public arguments go nowhere.</p>
+          <p><span class="curriculum-detail-label">Papers</span> Haidt (2001), "The emotional dog and its rational tail" · Graham, Haidt &amp; Nosek (2009), "Liberals and conservatives rely on different sets of moral foundations"</p>
+          <p><span class="curriculum-detail-label">Skill</span> How to read an academic paper. Abstract → Introduction → Discussion → Methods. Write one sentence per paper: what did they measure, and what did they find?</p>
+        </div>
+      </div>
+
+      <div class="curriculum-month">
+        <span class="curriculum-month-label">Jul 2026 · Posts 3–4</span>
+        <h2 class="curriculum-month-title">The Biology of Behavior</h2>
+        <p class="curriculum-month-book">Behave — Robert Sapolsky</p>
+        <div class="curriculum-body">
+          <p>How hormones, genes, evolution, and neurobiology shape behavior. The biology of sex differences. What happens in the brain one second before a behavior — and one million years before it. The paternal biology post: what testosterone, oxytocin, and rough-and-tumble play tell us about fathers.</p>
+          <p><span class="curriculum-detail-label">Papers</span> Buss (1995), "Evolutionary psychology: A new paradigm" · Feldman et al. (2010), "Natural variations in maternal and paternal care are associated with oxytocin"</p>
+          <p><span class="curriculum-detail-label">Skill</span> Confounding variables. Testosterone correlates with aggression — but does it cause it? Practice asking: what else could explain this result?</p>
+        </div>
+      </div>
+
+      <div class="curriculum-month">
+        <span class="curriculum-month-label">Aug 2026 · Posts 5–6</span>
+        <h2 class="curriculum-month-title">How We Actually Think</h2>
+        <p class="curriculum-month-book">Thinking, Fast and Slow — Daniel Kahneman</p>
+        <div class="curriculum-body">
+          <p>System 1 and System 2. Heuristics and biases. Prospect theory and loss aversion. Framing effects. The ways humans are systematically irrational — and why. How cognitive biases shape parenting and early financial education.</p>
+          <p><span class="curriculum-detail-label">Papers</span> Kahneman &amp; Tversky (1979), "Prospect theory: An analysis of decision under risk" · Tversky &amp; Kahneman (1974), "Judgment under uncertainty: Heuristics and biases"</p>
+          <p><span class="curriculum-detail-label">Skill</span> Operationalization. How did they turn an abstract concept into a measurable, reproducible task? Could you design a different experiment that tests the same hypothesis?</p>
+        </div>
+      </div>
+
+      <div class="curriculum-month">
+        <span class="curriculum-month-label">Sep 2026 · Posts 7–8</span>
+        <h2 class="curriculum-month-title">Culture's Hidden Architecture</h2>
+        <p class="curriculum-month-book">The WEIRDest People in the World — Joseph Henrich</p>
+        <div class="curriculum-body">
+          <p>How WEIRD (Western, Educated, Industrialized, Rich, Democratic) populations are statistical outliers in human history. How culture shapes cognition. How the nuclear family is historically novel — and how the fatherlessness crisis is partly a WEIRD-society crisis.</p>
+          <p><span class="curriculum-detail-label">Papers</span> Henrich, Heine &amp; Norenzayan (2010), "The weirdest people in the world" · Putnam (2000), "Bowling alone: America's declining social capital"</p>
+          <p><span class="curriculum-detail-label">Skill</span> Population validity. Who is in this sample? Can these findings travel to other populations, cultures, or time periods?</p>
+        </div>
+      </div>
+
+      <div class="curriculum-month">
+        <span class="curriculum-month-label">Oct 2026 · Posts 9–10</span>
+        <h2 class="curriculum-month-title">Reading Science Honestly</h2>
+        <p class="curriculum-month-book">The Elephant in the Brain — Robin Hanson &amp; Kevin Simler</p>
+        <div class="curriculum-body">
+          <p>Hidden motives in human behavior. How scientific institutions produce biased findings. The replication crisis, p-hacking, and publication bias. How to evaluate evidence quality — not just evidence existence. Minimum: one paper per week this month.</p>
+          <p><span class="curriculum-detail-label">Papers</span> Ioannidis (2005), "Why most published research findings are false" · Open Science Collaboration (2015), "Estimating the reproducibility of psychological science"</p>
+          <p><span class="curriculum-detail-label">Skill</span> Meta-analysis and publication bias detection. Stop evaluating single studies; start evaluating what the field as a whole says.</p>
+        </div>
+      </div>
+
+      <div class="curriculum-month">
+        <span class="curriculum-month-label">Nov 2026 · Posts 11–12</span>
+        <h2 class="curriculum-month-title">Where Do I Stand?</h2>
+        <p class="curriculum-month-book">Moral Tribes — Joshua Greene</p>
+        <div class="curriculum-body">
+          <p>Applying five months of tools to a synthesis question. Identifying the subfield where curiosity is sharpest. Post 12 is the honest essay: first-person, no summary — a real answer to the question this whole experiment was built around. What did the methodology feel like? What surprised? What do I want more of?</p>
+          <p><span class="curriculum-detail-label">Papers</span> 2–3 papers in whichever subfield is pulling hardest by October. Self-selected based on what the reading reveals — not pre-assigned.</p>
+          <p><span class="curriculum-detail-label">Skill</span> Identifying the gap. Every research paper ends with "future directions." A thesis lives in those questions. By Post 12: read a paper, find what it leaves unanswered, and say why it matters.</p>
+          <p><span class="curriculum-detail-label">The decision</span> Master's track or lifelong hobby. Both are valid. The project tells the answer; you just have to read it honestly.</p>
+        </div>
+      </div>
+
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-inner">
+        <p>© The Curious Observer · Andre Ottoni</p>
+        <div class="footer-social">
+          <a href="https://www.linkedin.com/in/deottoni/" target="_blank" rel="noopener" aria-label="LinkedIn">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+          </a>
+          <a href="https://github.com/deottoni/" target="_blank" rel="noopener" aria-label="GitHub">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    (function() {
+      var MOON = '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
+      var SUN  = '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><line x1="12" y1="2" x2="12" y2="6"/><line x1="12" y1="18" x2="12" y2="22"/><line x1="4.22" y1="4.22" x2="7.05" y2="7.05"/><line x1="16.95" y1="16.95" x2="19.78" y2="19.78"/><line x1="2" y1="12" x2="6" y2="12"/><line x1="18" y1="12" x2="22" y2="12"/><line x1="4.22" y1="19.78" x2="7.05" y2="16.95"/><line x1="16.95" y1="7.05" x2="19.78" y2="4.22"/></svg>';
+      var btn = document.getElementById('theme-toggle');
+      var current = document.documentElement.getAttribute('data-theme') || 'light';
+      btn.innerHTML = current === 'dark' ? SUN : MOON;
+      btn.addEventListener('click', function() {
+        var next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', next);
+        localStorage.setItem('theme', next);
+        btn.innerHTML = next === 'dark' ? SUN : MOON;
+      });
+    })();
+  </script>
+
+  <script>
+    var MILESTONES = [
+      {
+        month: 'Jun 2026', theme: 'The Moral Mind',
+        book: 'The Righteous Mind — Jonathan Haidt',
+        papers: [
+          'Haidt (2001) — The emotional dog and its rational tail',
+          'Graham, Haidt & Nosek (2009) — Liberals and conservatives rely on different sets of moral foundations'
+        ],
+        posts: [
+          { label: 'Post 1', href: null },
+          { label: 'Post 2', href: null }
+        ],
+        skill: 'How to read a paper',
+        done: false
+      },
+      {
+        month: 'Jul 2026', theme: 'The Biology of Behavior',
+        book: 'Behave — Robert Sapolsky',
+        papers: [
+          'Buss (1995) — Evolutionary psychology: A new paradigm for psychological science',
+          'Feldman et al. (2010) — Natural variations in maternal and paternal care associated with oxytocin'
+        ],
+        posts: [
+          { label: 'Post 3', href: null },
+          { label: 'Post 4', href: null }
+        ],
+        skill: 'Confounding variables',
+        done: false
+      },
+      {
+        month: 'Aug 2026', theme: 'How We Actually Think',
+        book: 'Thinking, Fast and Slow — Daniel Kahneman',
+        papers: [
+          'Kahneman & Tversky (1979) — Prospect theory: An analysis of decision under risk',
+          'Tversky & Kahneman (1974) — Judgment under uncertainty: Heuristics and biases'
+        ],
+        posts: [
+          { label: 'Post 5', href: null },
+          { label: 'Post 6', href: null }
+        ],
+        skill: 'Operationalization & experiment design',
+        done: false
+      },
+      {
+        month: 'Sep 2026', theme: "Culture's Hidden Architecture",
+        book: 'The WEIRDest People in the World — Joseph Henrich',
+        papers: [
+          'Henrich, Heine & Norenzayan (2010) — The weirdest people in the world',
+          "Putnam (2000) — Bowling alone: America's declining social capital"
+        ],
+        posts: [
+          { label: 'Post 7', href: null },
+          { label: 'Post 8', href: null }
+        ],
+        skill: 'Population validity & sampling limits',
+        done: false
+      },
+      {
+        month: 'Oct 2026', theme: 'Reading Science Honestly',
+        book: 'The Elephant in the Brain — Robin Hanson & Kevin Simler',
+        papers: [
+          'Ioannidis (2005) — Why most published research findings are false',
+          'Open Science Collaboration (2015) — Estimating the reproducibility of psychological science'
+        ],
+        posts: [
+          { label: 'Post 9', href: null },
+          { label: 'Post 10', href: null }
+        ],
+        skill: 'Meta-analysis & publication bias detection',
+        done: false
+      },
+      {
+        month: 'Nov 2026', theme: 'Where Do I Stand?',
+        book: 'Moral Tribes — Joshua Greene',
+        papers: [
+          '2–3 papers self-selected based on what pulls hardest by October',
+          'Focus: whichever subfield is generating the most genuine curiosity'
+        ],
+        posts: [
+          { label: 'Post 11', href: null },
+          { label: 'Post 12 — The honest essay', href: null }
+        ],
+        skill: 'Identifying the gap',
+        done: false
+      }
+    ];
+
+    (function () {
+      var dots = document.querySelectorAll('.milestone-dot');
+      var drawer = document.getElementById('milestone-drawer');
+      var active = -1;
+
+      function renderDrawer(i) {
+        var d = MILESTONES[i];
+        document.getElementById('dr-month').textContent = d.month;
+        document.getElementById('dr-theme').textContent = d.theme;
+        document.getElementById('dr-book').textContent = d.book;
+
+        var papersEl = document.getElementById('dr-papers');
+        papersEl.innerHTML = d.papers.map(function(p) {
+          return '<li>' + p + '</li>';
+        }).join('');
+
+        var postsEl = document.getElementById('dr-posts');
+        postsEl.innerHTML = d.posts.map(function(p) {
+          if (p.href) return '<li><a href="' + p.href + '">' + p.label + '</a></li>';
+          return '<li>' + p.label + ' — not yet published</li>';
+        }).join('');
+
+        document.getElementById('dr-skill').textContent = d.skill;
+
+        var statusEl = document.getElementById('dr-status');
+        var statusText = document.getElementById('dr-status-text');
+        if (d.done) {
+          statusEl.className = 'drawer-status done';
+          statusText.textContent = 'Complete';
+        } else {
+          statusEl.className = 'drawer-status';
+          statusText.textContent = 'Not started';
+        }
+      }
+
+      dots.forEach(function(dot, i) {
+        dot.addEventListener('click', function() {
+          if (active === i) {
+            drawer.hidden = true;
+            dot.setAttribute('aria-expanded', 'false');
+            active = -1;
+            return;
+          }
+          dots.forEach(function(d) { d.setAttribute('aria-expanded', 'false'); });
+          dot.setAttribute('aria-expanded', 'true');
+          renderDrawer(i);
+          drawer.hidden = true;
+          requestAnimationFrame(function() { drawer.hidden = false; });
+          active = i;
+        });
+      });
+    })();
+  </script>
+
+</body>
+</html>
