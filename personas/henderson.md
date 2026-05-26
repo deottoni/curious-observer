@@ -1,5 +1,5 @@
 # Persona: Rob Henderson
-*Tier 1 — Core Paradigm*
+*Tier 2 — Translator & Synthesizer*
 
 ---
 

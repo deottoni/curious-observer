@@ -1,24 +1,24 @@
 # 6-Month Curriculum Roadmap
 *The Curious Observer — Digital Lab Notebook*
 
-**Start date:** 2026-05-25
-**End date:** ~2026-11-25
+**Start date:** 2026-06-01
+**End date:** ~2026-11-30
 **Total output:** 12 posts (one every two weeks)
 
 ---
 
 ## Why This Project Exists — The Personal Stakes
 
-The curriculum below is academically structured, but it runs on personal fuel. These topics are why Andre is here:
+The curriculum below is academically structured, but it runs on personal fuel. These topics are why the work matters:
 
-- **Fatherlessness and paternal involvement** — The developmental and biological signature of fathers in early childhood. Not abstract: three boys, ages 10 and 5. The data on what a present father actually does (hormonally, neurologically, behaviorally) is the substrate beneath this entire project.
-- **Gender dynamics** — How boys and girls, men and women differ, and how those differences have shifted. Not ideological — behavioral, developmental, biological.
+- **Fatherlessness and paternal involvement** — The developmental and biological signature of fathers in early childhood. Not abstract: three boys, ages 10 and 5. What a present father actually does — hormonally, neurologically, behaviorally — is the substrate beneath the whole project.
+- **Gender dynamics** — How boys and girls, men and women differ, and how those differences have shifted. Behavioral, developmental, biological — not ideological.
 - **The modern male drift** — What's happened to male identity, purpose, and participation over the last 30 years. The data is real; the storytelling around it is often poor. This project aims to read the actual data.
 - **Status, power, and hierarchy** — How hierarchies form, why certain traits trigger deference, what status does to the body and the mind.
-- **Digital tribalism** — What social media does to ancient tribal instincts. Huberman's dopamine work, Haidt's tribalism research, and what it means for how people reason in groups.
+- **Digital tribalism** — What social media does to ancient tribal instincts. What it means for how people reason in groups.
 - **Financial literacy as a developmental outcome** — The long-term ROI of teaching kids how money works early. Personally motivated: actively teaching his own children.
 
-These topics do not drive the monthly curriculum — the anchor books do. But they are the lens through which every essay finds its personal angle. When Sapolsky covers paternal hormones, that's where fatherlessness enters. When Henrich covers WEIRD family structures, that's where the male drift enters. The curriculum is the vehicle; the personal stakes are the destination.
+These topics don't drive the monthly curriculum — the anchor books do. But they are the lens through which every essay finds its personal angle.
 
 ---
 
@@ -32,103 +32,98 @@ This roadmap ends with a binary decision:
 
 ---
 
-## Month 1 — The Moral Mind
-*Posts 1–2 | June 2026*
+## Month 1 — Groups, Morality, and Social Behavior
+*Posts 1–2 | Jun 2026*
 
-**Anchor Book:** The Righteous Mind — Jonathan Haidt
+**Anchor Book:** The Righteous Mind — Jonathan Haidt (~350 pages)
 
 **Core Themes:** Why people have different moral intuitions; why reasoning follows feeling rather than leading it; how tribalism is a feature not a bug of human psychology; the six moral foundations.
 
 **Anchor Papers:**
 - Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist model of moral judgment. *Psychological Review, 108*(4), 814–834.
-- Graham, J., Haidt, J., & Nosek, B. A. (2009). Liberals and conservatives rely on different sets of moral foundations. *Journal of Personality and Social Psychology, 96*(5), 1029–1046.
-
-**Podcasts this month:** Huberman Lab (any behavioral/social ep), Very Bad Wizards, Modern Wisdom (Haidt episodes)
+- Maslow, A. H. (1943). A theory of human motivation. *Psychological Review, 50*(4), 370–396.
 
 **Academic Skill — How to Read a Paper:**
-This is Month 1's meta-skill. Protocol: abstract first → introduction → discussion → then methods. Never skim results before you understand what question was asked. For every paper this month, write one sentence answering: *What did they measure, and what did they find?* By Post #2, reading a paper should feel less foreign.
+Month 1 meta-skill. Protocol: abstract first → introduction → discussion → then methods. Never skim results before you understand what question was asked. For every paper this month, write one sentence: *What did they measure, and what did they find?*
 
-**Peterson Standing Lens:** Haidt's moral foundations map onto Peterson's order/chaos dichotomy — purity/sanctity is the ancient disgust response that Peterson calls "the sacred"; authority/subversion is the competence hierarchy. Run this connection.
+**Peterson Standing Lens:** Haidt's moral foundations map onto Peterson's order/chaos dichotomy — purity/sanctity is the ancient disgust response; authority/subversion is the competence hierarchy. Run this connection.
 
-**Personal Stakes Angle:** *Why do people have such different moral intuitions about family structure, gender, and male roles?* Haidt's framework answers this directly — intuition precedes argument, and moral tribalism is why these conversations go nowhere. Natural hook for one of the two posts this month.
+**Personal Stakes Angle:** Why do people have such different moral intuitions about family structure, gender, and male roles? Haidt's framework answers this directly — intuition precedes argument, and moral tribalism is why these conversations go nowhere.
 
 **Month 1 Milestone:** You have read one full academic paper using the abstract → intro → discussion → methods protocol. You can explain Moral Foundations Theory in plain language and identify which foundation is being activated in a public debate you observed.
 
 ---
 
-## Month 2 — The Biology of Behavior
-*Posts 3–4 | July 2026*
+## Month 2 — Biology, Brain, and Evolutionary Hardware
+*Posts 3–4 | Jul 2026*
 
-**Anchor Book:** Behave — Robert Sapolsky
+**Anchor Book:** The Ape That Understood the Universe — Steve Stewart-Williams (~290 pages)
 
-**Core Themes:** How hormones, genes, evolution, and neurobiology shape behavior; the biology of sex differences; aggression, cooperation, and stress; what happens in the brain one second before a behavior and one million years before it.
+**Core Themes:** Tracing behavior from evolutionary hardware to adaptive culture; how natural selection shaped cognition, sex differences, and social instincts; the interaction between biological constants and cultural variation; the asymmetry in how sex-difference research is received vs. what it actually shows.
 
 **Anchor Papers:**
-- Buss, D. M. (1995). Evolutionary psychology: A new paradigm for psychological science. *Psychological Inquiry, 6*(1), 1–30.
-- Feldman, R., et al. (2010). Natural variations in maternal and paternal care are associated with systematic changes in oxytocin following parent–infant contact. *Psychoneuroendocrinology, 35*(8), 1133–1141. *(Paternal oxytocin — direct personal stakes connection)*
-- Dabbs, J. M., & Dabbs, M. G. (2000). Heroes, rogues, and lovers: Testosterone and behavior. Chapter or selection TBD.
+- Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. *Econometrica, 47*(2), 263–292.
+- Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The weirdest people in the world. *Behavioral and Brain Sciences, 33*(2–3), 61–83.
 
-**Academic Skill — Confounding Variables:**
-Sapolsky's material is full of them. Testosterone correlates with aggression — but does it cause it, or do dominance contexts elevate testosterone? Practice the standard question: *What else could explain this result that the researchers did or did not control for?* By Post #4, you should be able to read a methodology section and name three confounds the researchers controlled for and one they likely missed.
+**Academic Skill — Extracting the Argument:**
+Learn to pull three things from any paper before evaluating it: the hypothesis, the evidence, and the underlying assumptions. What are they claiming, what did they actually measure, and what are they taking for granted?
 
-**Peterson Standing Lens:** Sapolsky is a biological determinist; Peterson is not. The tension is productive — Sapolsky says behavior is downstream of biology; Peterson says voluntary confrontation rewires biology. Both are partially right. Surface this without resolving it.
+**Peterson Standing Lens:** Stewart-Williams bridges evolutionary biology and cultural adaptation. Peterson's order/chaos framework maps onto the tension between biological constants (what evolution built) and cultural variables (what civilization overlays). Both argue against pure social constructionism; Stewart-Williams does it empirically, Peterson does it archetypally.
 
-**Personal Stakes Angle:** *The paternal biology post.* What Sapolsky actually documents about fathers: testosterone drops at childbirth, oxytocin rises with infant contact, fathers who play rough-and-tumble show different neural patterns than non-engaged fathers. This is the fatherlessness and gender dynamics interest anchored in hard biology — not sociology, not culture war.
+**Personal Stakes Angle:** How do early childhood developmental environments and paternal inputs manifest in evolutionary adaptations and biological constants? Stewart-Williams provides the evolutionary scaffolding for the paternal involvement argument without the political weight of other writers in this space.
 
-**Month 2 Milestone:** You can identify a confounding variable in a study you haven't read before. You can explain the difference between correlation and causation using a real example from Behave.
+**Month 2 Milestone:** You can explain the evolutionary psychology argument for sex differences without either dismissing it or overstating it. You can extract hypothesis, evidence, and assumptions from a paper you haven't read before.
 
 ---
 
-## Month 3 — How We Actually Think
-*Posts 5–6 | August 2026*
+## Month 3 — Decision Science and Behavioral Systems
+*Posts 5–6 | Aug 2026*
 
-**Anchor Book:** Thinking, Fast and Slow — Daniel Kahneman
+**Anchor Book:** Predictably Irrational — Dan Ariely (~300 pages) *(re-reading with a systems/PM lens)*
 
-**Core Themes:** System 1 and System 2; heuristics and biases; prospect theory and loss aversion; framing effects; the ways humans are systematically irrational and why.
+**Core Themes:** Cognitive biases, blind spots, heuristics, and irrational incentives; how behavioral economics maps onto product design and real-world decision architecture; the gap between what people say they'll do and what they actually do.
 
 **Anchor Papers:**
-- Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. *Econometrica, 47*(2), 263–292. *(One of the most cited papers in behavioral science history — foundational)*
 - Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science, 185*(4157), 1124–1131.
 
-**Academic Skill — Operationalization and Experiment Design:**
-Kahneman's research is famous for elegant operationalization — he takes abstract concepts ("loss aversion") and turns them into measurable, reproducible tasks. Practice asking: *How did they operationalize this variable? Could I design a different experiment that tests the same hypothesis?* This is what a thesis proposal looks like in miniature.
+**Academic Skill — Methodology and Results Sections:**
+Ariely's experiments are elegantly operationalized. Practice dissecting methodology: What exactly did they measure? How did they isolate the variable? Does the measurement actually capture what they claim? By Post #6, you should be able to describe the design of any Ariely experiment in one paragraph and identify one thing it can't prove.
 
-**Peterson Standing Lens:** Kahneman's System 1 is Peterson's unconscious — the vast, pattern-matching, story-building machinery operating beneath conscious awareness. Peterson's archetypal framework is, in cognitive science terms, System 1 giving narrative shape to deep biological priors. Connect these.
+**Peterson Standing Lens:** Ariely's irrational actors are Peterson's unconscious — System 1 machinery running beneath deliberate awareness. Peterson's framework is a meaning-based override: people with a clear hierarchy of values make better decisions under uncertainty. The question is whether meaning-making actually counters the biases Ariely documents, or whether it's just another bias dressed up as wisdom.
 
-**Personal Stakes Angle:** *How cognitive biases shape parenting and early financial behavior.* Loss aversion in kids — why they protect what they have more fiercely than they pursue gains. Framing effects in financial education — how the way you explain money to a child determines whether they develop scarcity or abundance thinking. Housel is the Tier 1 voice here.
+**Personal Stakes Angle:** What systematic cognitive biases and risk-taking behaviors manifest when young men lack structural social anchors or clear life milestones? Ariely's loss aversion and anchoring effects are particularly relevant: when there's no clear hierarchy of values, people anchor to whatever is salient — often status signals and peer comparison.
 
-**Month 3 Milestone:** You can explain prospect theory in one paragraph with no jargon. You can describe what operationalization means and give an example of a well-operationalized vs. poorly-operationalized study variable.
+**Month 3 Milestone:** You can explain prospect theory and loss aversion in one paragraph with no jargon. You can describe what operationalization means and give an example of a well-operationalized vs. poorly-operationalized study variable.
 
 ---
 
-## Month 4 — Culture's Hidden Architecture
-*Posts 7–8 | September 2026*
+## Month 4 — Culture, Institutions, and Civilizations
+*Posts 7–8 | Sep 2026*
 
-**Anchor Book:** The WEIRDest People in the World — Joseph Henrich
+**Anchor Book:** Of Boys and Men — Richard Reeves (~230 pages)
 
-**Core Themes:** How WEIRD (Western, Educated, Industrialized, Rich, Democratic) populations are statistical outliers in human history; how culture shapes cognition; how institutions construct the mind; how collective behavior differs across societies.
+**Core Themes:** Structural and policy variables behind male underperformance in education and the workforce; why civilizational incentive shifts — not individual failure — drive population-level behavioral change; the gap between how the male drift is framed culturally and what the data actually shows.
 
 **Anchor Papers:**
-- Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The weirdest people in the world. *Behavioral and Brain Sciences, 33*(2–3), 61–83. *(The paper that named the problem — read this before the book)*
-- Putnam, R. D. (2000). Bowling alone: America's declining social capital. Selection/chapter. *(Institutional trust and social participation — connects to modern male drift)*
+- Hardin, G. (1968). The tragedy of the commons. *Science, 162*(3859), 1243–1248.
 
-**Academic Skill — Population Validity and Sampling Limits:**
-Henrich's entire argument is a population validity critique. Most psychology studies use WEIRD undergraduate students. Their results generalize less than assumed. Practice asking: *Who is in this sample? Can these findings travel to other populations, cultures, or time periods?* This is the lens that makes you a better reader of every study for the rest of the project.
+**Academic Skill — Isolating Cultural and Policy Variables:**
+Reeves is one of the few writers on this topic who leads with data rather than grievance. Practice asking: what is the unit of analysis here — individual, cohort, institution, culture? What changes when you control for income, race, or family structure? By Post #8, you should be able to identify whether an argument is explaining variance or just describing a pattern.
 
-**Peterson Standing Lens:** Henrich argues culture constructs cognition. Peterson argues there are universal archetypes that transcend culture. This is a live intellectual tension — Jungian universals vs. cultural particularism. Where does biology end and culture begin? Surface without resolving.
+**Peterson Standing Lens:** Reeves treats male drift as a structural/policy problem. Peterson treats it as a meaning problem. Both are partially right — structural interventions can't restore meaning, and meaning-focused interventions can't fix institutional failure. Surface this tension without resolving it.
 
-**Personal Stakes Angle:** *The WEIRD nuclear family.* Most of human evolutionary history involved multi-generational, communal child-rearing. The isolated nuclear family is historically novel and geographically unusual. The fatherlessness crisis is partly a WEIRD-society crisis — what happens when you remove the village and make two people responsible for everything. This connects directly to the personal stakes.
+**Personal Stakes Angle:** Why do different cultures experience varying rates of family structure decay, and how do changing civilizational incentives alter male participation and performance? Reeves provides the empirical bridge between the macro structural argument and the individual-level fatherlessness data.
 
-**Month 4 Milestone:** You can explain the WEIRD critique in one paragraph. You can read a study's methodology section and identify whether its sampling limits its generalizability — and say specifically how.
+**Month 4 Milestone:** You can explain the difference between a structural explanation and a cultural explanation for a behavioral pattern. You can identify whether a claim is making a variance argument or just describing a trend.
 
 ---
 
-## Month 5 — Reading Science Honestly
-*Posts 9–10 | October 2026*
+## Month 5 — Research Skepticism and Behavioral Compliance
+*Posts 9–10 | Oct 2026*
 
-**Anchor Books:** The Elephant in the Brain — Robin Hanson & Kevin Simler; *Determined* — Robert Sapolsky (selected chapters)
+**Anchor Book:** Influence: The Psychology of Persuasion — Robert Cialdini (~260 pages)
 
-**Core Themes:** Hidden motives in human behavior; how scientific institutions produce biased findings; the replication crisis; p-hacking; publication bias; how to evaluate evidence quality, not just evidence existence.
+**Core Themes:** The six principles of compliance — reciprocity, commitment, social proof, authority, liking, scarcity; how these mechanics operate in modern institutional environments; how to read Cialdini not as a persuasion manual but as a catalog of psychological vulnerabilities.
 
 **Anchor Papers:**
 - Ioannidis, J. P. A. (2005). Why most published research findings are false. *PLOS Medicine, 2*(8), e124. *(Read this slowly — it reframes everything)*
@@ -136,30 +131,30 @@ Henrich's entire argument is a population validity critique. Most psychology stu
 
 **Minimum this month: 1 academic paper per week.** By Month 5, reading a paper should feel routine. This month pushes the volume.
 
-**Academic Skill — Meta-Analysis and Publication Bias Detection:**
-Stop evaluating single studies; start evaluating what the field as a whole says. A meta-analysis aggregates findings across dozens of independent studies. Learn to read one: identify the inclusion criteria, the effect size estimate, the heterogeneity statistic, and whether the funnel plot suggests publication bias. By Post #10, you should be able to open a meta-analysis and describe what it concludes and how confident you should be in that conclusion.
+**Academic Skill — Evaluating Evidence Quality:**
+Shift from consuming psychology to evaluating it. Stop asking "what did they find?" and start asking "how confident should I be in this finding?" By Post #10, you should be able to open a paper and describe: the effect size, the sample size, the replication status (if known), and one methodological weakness.
 
-**Peterson Standing Lens:** Peterson has argued for years that ideological capture corrupts institutions — including scientific ones. Ioannidis and the replication crisis give that argument empirical grounding. This is one of the most direct connections between Peterson's worldview and hard academic evidence. Use it.
+**Peterson Standing Lens:** Peterson has argued for years that ideological capture corrupts institutions — including scientific ones. Cialdini shows how compliance mechanics operate within them: authority bias, social proof, and commitment/consistency explain why researchers p-hack, reviewers accept flattering findings, and journals reject null results. The replication crisis is compliance mechanics operating on the scientific community itself.
 
-**Personal Stakes Angle:** *Re-evaluation.* How solid is the fatherlessness and gender dynamics research you've been reading for two years? Apply Month 5's tools retroactively. Which claims survive scrutiny? Which were popular because they confirmed what people already believed? This is the most honest post in the project.
+**Personal Stakes Angle:** How do modern compliance mechanics exploit psychological vulnerabilities in the absence of traditional community guardrails? Social proof without a trusted community defaults to whoever is loudest. Authority without earned hierarchy defaults to credential signaling. This is the fatherlessness and male drift argument translated into behavioral compliance terms.
 
-**Month 5 Milestone:** You have read at least 4 academic papers this month. You can identify a publication bias problem and explain it in plain language. You have re-evaluated at least one claim you previously believed without much scrutiny.
+**Month 5 Milestone:** You have read at least 4 academic papers this month. You can explain publication bias in plain language. You have re-evaluated at least one claim you previously believed without much scrutiny and named the compliance mechanic that made you believe it.
 
 ---
 
-## Month 6 — Where Do I Stand?
-*Posts 11–12 | November 2026*
+## Month 6 — Specialization & Graduate Litmus Test
+*Posts 11–12 | Nov 2026*
 
-**Anchor Book:** Moral Tribes — Joshua Greene (default); swap for *Surfing Uncertainty* (Clark) if Month 4 produced strong interest in predictive processing, or *The Adapted Mind* (Barkow, Cosmides & Tooby) if Month 2 produced strong interest in evolutionary psychology.
+**Anchor Book:** The Elephant in the Brain — Kevin Simler & Robin Hanson (~240 pages)
 
-**Core Themes:** Applying the full five months of tools to a synthesis question; identifying the subfield where your curiosity is sharpest; evaluating whether formal research is genuinely interesting or just the ideas.
+**Core Themes:** Hidden motives in human behavior; the argument that most institutional behavior — medicine, education, conversation, charity — is driven by signaling rather than stated purpose; applying the signaling lens to the previous five months of reading; identifying the subfield where curiosity is sharpest.
 
-**Anchor Papers:** 2–3 papers in whichever subfield is pulling hardest by October. Let the reading identify these — don't pre-assign.
+**Anchor Papers:** 1–2 full journal papers per week, self-selected from whichever subfield is generating the most genuine interest by October. Do not pre-assign — let the reading identify them.
 
 **Academic Skill — Identifying the Gap:**
-Every research paper ends with "future directions." A thesis lives in those future directions. By Post #12, you should be able to read a paper, identify what questions it leaves unanswered, and articulate why those unanswered questions matter. That gap is where a researcher lives.
+Every research paper ends with "future directions." A thesis lives in those future directions. By Post #12, read a paper, identify what questions it leaves unanswered, and articulate why those unanswered questions matter. That gap is where a researcher lives.
 
-**Peterson Standing Lens:** The meaning answer. After six months, what is the honest answer to Peterson's implicit question: *What are you for?* What does this project tell Andre about what kind of intellectual he actually is — and what kind of work is worth doing?
+**Peterson Standing Lens:** Simler and Hanson argue that hidden motives drive most institutional behavior, including academic research. Peterson's response to this kind of cynicism: name the motive honestly, then choose to act from meaning anyway. By Month 6, the question is whether the intellectual engagement throughout this project was intrinsically motivated — or just another form of signaling.
 
 **Post #12 — The Honest Essay:** The final post is a first-person retrospective. Not a summary — an honest answer to the master's question. What did the methodology sections actually feel like? What surprised you? What bored you? What do you want more of? Write it before you decide anything.
 
@@ -173,16 +168,16 @@ Every research paper ends with "future directions." A thesis lives in those futu
 |---|---|---|---|---|---|
 | 1 | 1 — Haidt | The Righteous Mind | | Not started | |
 | 2 | 1 — Haidt | The Righteous Mind | | Not started | |
-| 3 | 2 — Sapolsky | Behave | | Not started | |
-| 4 | 2 — Sapolsky | Behave | | Not started | |
-| 5 | 3 — Kahneman | Thinking, Fast and Slow | | Not started | |
-| 6 | 3 — Kahneman | Thinking, Fast and Slow | | Not started | |
-| 7 | 4 — Henrich | WEIRDest People | | Not started | |
-| 8 | 4 — Henrich | WEIRDest People | | Not started | |
-| 9 | 5 — Research literacy | Elephant in the Brain | | Not started | |
-| 10 | 5 — Research literacy | Elephant in the Brain | | Not started | |
-| 11 | 6 — Synthesis | Moral Tribes | | Not started | |
-| 12 | 6 — Synthesis | Moral Tribes | | Not started | |
+| 3 | 2 — Stewart-Williams | The Ape That Understood the Universe | | Not started | |
+| 4 | 2 — Stewart-Williams | The Ape That Understood the Universe | | Not started | |
+| 5 | 3 — Ariely | Predictably Irrational | | Not started | |
+| 6 | 3 — Ariely | Predictably Irrational | | Not started | |
+| 7 | 4 — Reeves | Of Boys and Men | | Not started | |
+| 8 | 4 — Reeves | Of Boys and Men | | Not started | |
+| 9 | 5 — Cialdini | Influence | | Not started | |
+| 10 | 5 — Cialdini | Influence | | Not started | |
+| 11 | 6 — Simler & Hanson | The Elephant in the Brain | | Not started | |
+| 12 | 6 — Simler & Hanson | The Elephant in the Brain | | Not started | |
 
 *Update the Topic and Status fields at the end of each working session. Valid status values: `Not started` / `Draft` / `In review` / `Published`. Keep in sync with `posts/index.md`.*
 
@@ -191,7 +186,8 @@ Every research paper ends with "future directions." A thesis lives in those futu
 ## Technical Notes
 - All posts live in `posts/published/` once finished
 - In-progress drafts live in `posts/drafts/`
-- Raw research notes live in `research/month-[n]/`
+- Raw research notes live in `research/notes/month-[n]/`
+- Papers live in `research/papers/month-[n]-[author]/` (gitignored — local only)
 - Cite at least one 2024–2026 source per post
 - Anchor papers listed above are starting points — the Librarian agent will surface additional papers per post during active sessions
 - Audio scripts (when active): `posts/audio-scripts/`

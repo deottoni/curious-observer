@@ -7,7 +7,7 @@
 :root {
   --ink:     #1c1917;
   --paper:   #faf9f7;
-  --accent:  #7c3aed;
+  --accent:  #3a6f8f;
   --rule:    #e2ddd8;
   --muted:   #78716c;
   --width:   680px;
@@ -18,7 +18,7 @@
 [data-theme="dark"] {
   --ink:    #ede9e4;
   --paper:  #0d0c0b;
-  --accent: #a78bfa;
+  --accent: #6aadca;
   --rule:   #272220;
   --muted:  #9e948e;
 }
@@ -428,11 +428,11 @@ nav { display: flex; align-items: center; gap: 1.25rem; }
 
 .milestone-dot[aria-expanded="true"] {
   border-color: var(--accent);
-  box-shadow: 0 0 0 3px rgba(124, 58, 237, 0.15);
+  box-shadow: 0 0 0 3px rgba(58, 111, 143, 0.18);
 }
 
 [data-theme="dark"] .milestone-dot[aria-expanded="true"] {
-  box-shadow: 0 0 0 3px rgba(167, 139, 250, 0.15);
+  box-shadow: 0 0 0 3px rgba(106, 173, 202, 0.18);
 }
 
 .milestone-dot.is-done {
@@ -639,6 +639,22 @@ nav { display: flex; align-items: center; gap: 1.25rem; }
   text-transform: uppercase;
   color: var(--muted);
   margin-right: 0.3rem;
+}
+
+/* === CITATION LINKS === */
+.cite-link {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+  text-decoration-color: var(--muted);
+  transition: color 0.15s ease, text-decoration-color 0.15s ease;
+}
+
+.cite-link:hover {
+  color: var(--accent);
+  text-decoration-style: solid;
+  text-decoration-color: var(--accent);
 }
 
 @media (max-width: 540px) {

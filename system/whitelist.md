@@ -23,8 +23,9 @@ Every session should find a way to run Peterson's interpretive layer: meaning fr
 | Mind | Domain |
 |---|---|
 | **Dr. Jordan Peterson** | Archetypal psychology, Big Five personality, voluntary confrontation, meaning frameworks, competence hierarchies — **Standing Lens (see above)** |
-| **Dr. Jonathan Haidt** | Moral Foundations Theory, intuition-first reasoning, group tribalism, political psychology, digital ecosystem dynamics — **Month 1 anchor** |
-| **Dr. Robert Sapolsky** | Neurobiology, hormones, evolution, sex differences, stress physiology, determinism and behavior — **Month 2 anchor + Month 5 (Determined)** |
+| **Dr. Jonathan Haidt** | Moral Foundations Theory, intuition-first reasoning, group tribalism, political psychology, digital ecosystem dynamics — **Month 1 anchor book** |
+| **Steve Stewart-Williams** | Evolutionary psychology, sex differences, gene-culture coevolution, behavioral asymmetries in research — **Month 2 anchor book** |
+| **Dr. Robert Sapolsky** | Neurobiology, hormones, evolution, sex differences, stress physiology, determinism and behavior |
 | **Morgan Housel** | Behavioral economics, psychology of risk, the role of ego and patience in long-horizon decisions |
 | **Dr. Andrew Huberman** | Dopamine mechanics, biological habit optimization, stress and resilience, sleep and performance |
 | **Robert Greene** | Historical strategy, base human motivations, social masks, power dynamics, prestige vs. dominance |
@@ -38,12 +39,14 @@ Every session should find a way to run Peterson's interpretive layer: meaning fr
 
 | Mind | Domain |
 |---|---|
-| **Daniel Kahneman** | System 1/2 thinking, heuristics and biases, prospect theory, irrationality under uncertainty — **Month 3 anchor** |
-| **Joseph Henrich** | WEIRD populations, cultural variation, institutions and cognition, collective behavior — **Month 4 anchor** |
-| **Dr. Richard Reeves** | Structural/policy metrics on young men, education gaps, labor market dynamics |
+| **Daniel Kahneman** | System 1/2 thinking, heuristics and biases, prospect theory, irrationality under uncertainty — **anchor papers Months 2–3** |
+| **Dan Ariely** | Behavioral economics, irrational decision-making, experiment design, hidden price of social norms — **Month 3 anchor book** |
+| **Joseph Henrich** | WEIRD populations, cultural variation, institutions and cognition, collective behavior — **anchor paper Month 2** |
+| **Dr. Richard Reeves** | Structural/policy metrics on young men, education gaps, labor market dynamics — **Month 4 anchor book** |
 | **Dr. David Buss** | Evolutionary psychology, human mating strategies, sex differences |
 | **Nassim Nicholas Taleb** | Probability, antifragility, asymmetric risk, epistemics |
-| **Dr. Robert Cialdini** | Compliance mechanics, social proof, influence vectors — **Month 5 reading** |
+| **Dr. Robert Cialdini** | Compliance mechanics, social proof, influence vectors — **Month 5 anchor book** |
+| **Kevin Simler & Robin Hanson** | Hidden motives, signaling theory, self-deception, institutional behavior — **Month 6 anchor book** |
 | **Dr. Gad Saad** | Evolutionary consumption patterns, biological market signals |
 | **James Clear** | Behavioral habit loops, system routines, identity-based change |
 
@@ -57,7 +60,7 @@ Every session should find a way to run Peterson's interpretive layer: meaning fr
 |---|---|
 | **Dr. Paul Amato** | Longitudinal data tracking family structure and father absence (controlling for income) |
 | **Dr. Kyle Pruett** | Paternal nurturing, rough-and-tumble developmental play dynamics |
-| **Dr. Steve Stewart-Williams** | Asymmetry in sex-difference research acceptance, evolutionary trait literature |
+| **Dr. Steve Stewart-Williams** | *(moved to Tier 1 — Month 2 anchor book)* |
 | **Dr. Roy Baumeister** | Cultural utility of gender roles, belongingness, self-regulation |
 | **Dr. Alice Eagly** | Social role theory vs. biological constants in meta-analyses |
 | **Dr. Joyce Benenson** | Childhood competitive vectors and innate group dynamics |
