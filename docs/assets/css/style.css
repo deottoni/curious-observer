@@ -318,6 +318,12 @@ hr {
   margin-top: 5rem;
 }
 
+.footer-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 .site-footer p {
   font-family: var(--mono);
   font-size: 0.62rem;
@@ -329,6 +335,26 @@ hr {
 .site-footer a {
   color: var(--muted);
   text-decoration: none;
+}
+
+.site-footer a:hover { color: var(--accent); }
+
+.footer-social {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.footer-social a {
+  display: flex;
+  align-items: center;
+  color: var(--muted);
+  transition: color 0.2s ease;
+}
+
+.footer-social svg {
+  width: 15px;
+  height: 15px;
 }
 
 .site-footer a:hover { color: var(--accent); }
