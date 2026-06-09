@@ -166,7 +166,7 @@ Every research paper ends with "future directions." A thesis lives in those futu
 
 | Post # | Month | Anchor Book | Topic | Status | Published Date |
 |---|---|---|---|---|---|
-| 1 | 1 — Haidt | The Righteous Mind | The Defense Attorney in Your Head | Draft | 2026-06-09 |
+| 1 | 1 — Haidt | The Righteous Mind | The Defense Attorney in Your Head | Published | 2026-06-09 |
 | 2 | 1 — Haidt | The Righteous Mind | | Not started | |
 | 3 | 2 — Stewart-Williams | The Ape That Understood the Universe | | Not started | |
 | 4 | 2 — Stewart-Williams | The Ape That Understood the Universe | | Not started | |
