@@ -19,7 +19,7 @@ Andre Ottoni — Staff PM, 10+ years product/analytics background, no prior form
 | `system/agents/` | One file per agent role in the pipeline |
 
 ## Last Session
-`sessions/2026-05-25.md` — Read this first. It has the full state of the project, what changed, and the immediate next step.
+Read the most recent file in `sessions/` — it has the full state of the project, what changed, and the immediate next step.
 
 ## Session Protocol
 1. Read the most recent file in `sessions/` to orient on current state
@@ -33,3 +33,5 @@ Andre Ottoni — Staff PM, 10+ years product/analytics background, no prior form
 - All posts must cite 2022–2026 sources where possible
 - Every post must comply with Curious Observer tone rules (see `system/blueprint.md`)
 - Andre learns by: concept first → worked example second. Never throw a raw paper at him cold.
+- **Papers and articles are read online — never ask to download PDFs locally. No local paper storage.**
+- **At the end of every session, save a session file to `sessions/YYYY-MM-DD.md`** — see `system/session-start.md` for the end-of-session format. No sensitive personal info.

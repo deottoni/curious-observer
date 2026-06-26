@@ -36,4 +36,37 @@ Run this sequence at the start of every working session before doing anything el
 
 ---
 
-*Version: 1.0 — 2026-05-25. Update this file if the session protocol changes.*
+---
+
+## End of Session
+
+Before closing, always save a session file at `sessions/YYYY-MM-DD.md`. Use this structure:
+
+```markdown
+# Session — YYYY-MM-DD
+
+## What We Did
+[Bullet summary of decisions made, files changed, content produced]
+
+## File State at Session End
+| File | Status |
+|---|---|
+| ... | ... |
+
+## Where We're Heading
+[Immediate next step — specific enough to orient the next session cold]
+```
+
+**Rules:**
+- No sensitive personal info, no private details
+- Focus on project state and decisions, not conversation transcript
+- "Where We're Heading" must be actionable — the next session should be able to start without asking what's next
+
+---
+
+## On Research Papers
+Papers and articles are **read online** — never download PDFs locally. The `research/` folder holds only reading notes (markdown). Links to open-access papers live in `curriculum/roadmap.md`.
+
+---
+
+*Version: 1.1 — 2026-06-26. Updated: session-end protocol added, PDF download rule clarified.*

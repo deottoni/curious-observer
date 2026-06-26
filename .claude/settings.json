@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "TODAY=$(date +%Y-%m-%d); SESSION_FILE=\"/Users/andreottoni/Desktop/claude/curious-observer/sessions/$TODAY.md\"; if [ ! -f \"$SESSION_FILE\" ]; then echo \"[Curious Observer] No session file saved for today ($TODAY). Save to sessions/$TODAY.md before closing.\"; fi"
+          }
+        ]
+      }
+    ]
+  }
+}
