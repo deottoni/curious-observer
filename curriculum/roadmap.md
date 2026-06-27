@@ -41,7 +41,7 @@ This roadmap ends with a binary decision:
 
 **Anchor Papers:**
 - Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist model of moral judgment. *Psychological Review, 108*(4), 814–834.
-- Maslow, A. H. (1943). A theory of human motivation. *Psychological Review, 50*(4), 370–396.
+- Graham, J., Haidt, J., & Nosek, B. A. (2009). Liberals and conservatives rely on different sets of moral foundations. *Journal of Personality and Social Psychology, 96*(5), 1029–1046.
 
 **Academic Skill — How to Read a Paper:**
 Month 1 meta-skill. Protocol: abstract first → introduction → discussion → then methods. Never skim results before you understand what question was asked. For every paper this month, write one sentence: *What did they measure, and what did they find?*
@@ -62,7 +62,7 @@ Month 1 meta-skill. Protocol: abstract first → introduction → discussion →
 **Core Themes:** Tracing behavior from evolutionary hardware to adaptive culture; how natural selection shaped cognition, sex differences, and social instincts; the interaction between biological constants and cultural variation; the asymmetry in how sex-difference research is received vs. what it actually shows.
 
 **Anchor Papers:**
-- Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. *Econometrica, 47*(2), 263–292.
+- Buss, D. M. (1995). Evolutionary psychology: A new paradigm for psychological science. *Psychological Inquiry, 6*(1), 1–30.
 - Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The weirdest people in the world. *Behavioral and Brain Sciences, 33*(2–3), 61–83.
 
 **Academic Skill — Extracting the Argument:**
@@ -85,6 +85,7 @@ Learn to pull three things from any paper before evaluating it: the hypothesis, 
 
 **Anchor Papers:**
 - Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science, 185*(4157), 1124–1131.
+- Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. *Econometrica, 47*(2), 263–292.
 
 **Academic Skill — Methodology and Results Sections:**
 Ariely's experiments are elegantly operationalized. Practice dissecting methodology: What exactly did they measure? How did they isolate the variable? Does the measurement actually capture what they claim? By Post #6, you should be able to describe the design of any Ariely experiment in one paragraph and identify one thing it can't prove.

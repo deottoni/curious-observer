@@ -1,6 +1,6 @@
 # The Defense Attorney in Your Head
 
-*Post 1 — Month 1 (Haidt) | Status: Draft*
+*Post 1 — Month 1 (Haidt) | Status: Published*
 
 ---
 

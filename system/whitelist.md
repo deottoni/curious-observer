@@ -39,11 +39,11 @@ Every session should find a way to run Peterson's interpretive layer: meaning fr
 
 | Mind | Domain |
 |---|---|
-| **Daniel Kahneman** | System 1/2 thinking, heuristics and biases, prospect theory, irrationality under uncertainty — **anchor papers Months 2–3** |
+| **Daniel Kahneman** | System 1/2 thinking, heuristics and biases, prospect theory, irrationality under uncertainty — **anchor papers Month 3** |
 | **Dan Ariely** | Behavioral economics, irrational decision-making, experiment design, hidden price of social norms — **Month 3 anchor book** |
 | **Joseph Henrich** | WEIRD populations, cultural variation, institutions and cognition, collective behavior — **anchor paper Month 2** |
 | **Dr. Richard Reeves** | Structural/policy metrics on young men, education gaps, labor market dynamics — **Month 4 anchor book** |
-| **Dr. David Buss** | Evolutionary psychology, human mating strategies, sex differences |
+| **Dr. David Buss** | Evolutionary psychology, human mating strategies, sex differences — **anchor paper Month 2** |
 | **Nassim Nicholas Taleb** | Probability, antifragility, asymmetric risk, epistemics |
 | **Dr. Robert Cialdini** | Compliance mechanics, social proof, influence vectors — **Month 5 anchor book** |
 | **Kevin Simler & Robin Hanson** | Hidden motives, signaling theory, self-deception, institutional behavior — **Month 6 anchor book** |
