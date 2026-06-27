@@ -2,20 +2,20 @@
 
 *Keep this in sync with the Post Tracker in `curriculum/roadmap.md`. Update at the end of each working session when a post advances or publishes.*
 
-| # | Phase | Title | Primary Persona | Primary Tier 3 Source | Status | Published |
+| # | Month | Title | Primary Persona | Primary Tier 3 Source | Status | Published |
 |---|---|---|---|---|---|---|
-| 1 | 1 | | | | Not started | |
-| 2 | 1 | | | | Not started | |
-| 3 | 1 | | | | Not started | |
-| 4 | 1 | | | | Not started | |
-| 5 | 2 | | | | Not started | |
-| 6 | 2 | | | | Not started | |
-| 7 | 2 | | | | Not started | |
-| 8 | 2 | | | | Not started | |
-| 9 | 3 | | | | Not started | |
-| 10 | 3 | | | | Not started | |
-| 11 | 3 | | | | Not started | |
-| 12 | 3 | | | | Not started | |
+| 1 | 1 — Haidt | The Defense Attorney in Your Head | | | Published | 2026-06-09 |
+| 2 | 1 — Haidt | | | | Not started | |
+| 3 | 2 — Stewart-Williams | | | | Not started | |
+| 4 | 2 — Stewart-Williams | | | | Not started | |
+| 5 | 3 — Ariely | | | | Not started | |
+| 6 | 3 — Ariely | | | | Not started | |
+| 7 | 4 — Reeves | | | | Not started | |
+| 8 | 4 — Reeves | | | | Not started | |
+| 9 | 5 — Cialdini | | | | Not started | |
+| 10 | 5 — Cialdini | | | | Not started | |
+| 11 | 6 — Simler & Hanson | | | | Not started | |
+| 12 | 6 — Simler & Hanson | | | | Not started | |
 
 ---
 

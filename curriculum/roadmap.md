@@ -186,8 +186,8 @@ Every research paper ends with "future directions." A thesis lives in those futu
 ## Technical Notes
 - All posts live in `posts/published/` once finished
 - In-progress drafts live in `posts/drafts/`
-- Raw research notes live in `research/notes/month-[n]/`
-- Papers live in `research/papers/month-[n]-[author]/` (gitignored — local only)
+- Raw research notes live in `research/notes/month-[n]-[author]/`
+- Papers and articles are read online — no local paper storage
 - Cite at least one 2024–2026 source per post
 - Anchor papers listed above are starting points — the Librarian agent will surface additional papers per post during active sessions
 - Audio scripts (when active): `posts/audio-scripts/`

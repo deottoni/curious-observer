@@ -13,12 +13,25 @@ curious-observer/
 ├── system/              # Agent instructions and system identity
 │   ├── blueprint.md     # Master tone and pipeline rules
 │   ├── whitelist.md     # 3-Tier researcher whitelist
+│   ├── session-start.md # Session protocol and end-of-session format
+│   ├── future-plans.md  # Parked ideas for after Month 6
 │   └── agents/          # One file per agent role
 ├── personas/            # Tier 1 style cards
 ├── user/                # Owner profile context
-├── curriculum/          # 6-month roadmap
-├── research/            # Raw inputs by phase (PDFs, notes)
-└── posts/               # Output artifacts (drafts, published, audio-scripts)
+├── curriculum/          # 6-month roadmap and post tracker
+├── research/
+│   └── notes/           # Reading notes per month, by anchor book
+│       └── month-01-haidt/
+├── posts/               # Output artifacts (drafts, published, audio-scripts)
+├── docs/                # Static website published via GitHub Pages
+│   ├── index.html
+│   ├── about.html
+│   ├── season-1.html
+│   ├── posts/           # Published post HTML files
+│   └── assets/          # CSS and images
+├── sessions/            # Dated lab notebook files, one per working session
+├── CLAUDE.md            # Claude Code project instructions
+└── .claude/             # Claude Code config (hooks)
 ```
 
 ## The Pipeline
@@ -31,14 +44,21 @@ Every post runs through 5 sequential agent roles:
 4. **Ghostwriter** — synthesizes in Curious Observer tone
 5. **Audio Producer** — *(planned, not active)*
 
-## Topics
+## Curriculum
 
-1. Fatherlessness and early childhood development
-2. The modern "lost men" phenomenon
-3. Status, power, and social hierarchy
-4. Digital tribalism and evolutionary mismatch
-5. Financial literacy in early childhood development
+6 months, 2 posts each, anchored to a core book:
+
+| Month | Anchor Book | Author |
+|---|---|---|
+| 1 — Jun 2026 | The Righteous Mind | Jonathan Haidt |
+| 2 — Jul 2026 | The Ape That Understood the Universe | Steve Stewart-Williams |
+| 3 — Aug 2026 | Predictably Irrational | Dan Ariely |
+| 4 — Sep 2026 | Of Boys and Men | Richard Reeves |
+| 5 — Oct 2026 | Influence: The Psychology of Persuasion | Robert Cialdini |
+| 6 — Nov 2026 | The Elephant in the Brain | Simler & Hanson |
+
+Personal stakes angles (fatherlessness, gender dynamics, male drift, status/power, digital tribalism, financial literacy) run beneath the curriculum as emotional anchors — they surface as post angles within each month's material.
 
 ## Status
 
-Phase 1 — Posts 1–4 in progress.
+Month 1 of 6 underway. Post 1 published (2026-06-09). Post 2 not started.
