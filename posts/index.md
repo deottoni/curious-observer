@@ -5,7 +5,7 @@
 | # | Month | Title | Primary Persona | Primary Tier 3 Source | Status | Published |
 |---|---|---|---|---|---|---|
 | 1 | 1 — Haidt | The Defense Attorney in Your Head | | | Published | 2026-06-09 |
-| 2 | 1 — Haidt | | | | Not started | |
+| 2 | 1 — Haidt | The Book You Didn't Write | Haidt / Sapolsky / Peterson | Zakharin & Bates (2023) | Published | 2026-06-27 |
 | 3 | 2 — Stewart-Williams | | | | Not started | |
 | 4 | 2 — Stewart-Williams | | | | Not started | |
 | 5 | 3 — Ariely | | | | Not started | |
