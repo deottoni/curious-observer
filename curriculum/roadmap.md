@@ -168,7 +168,7 @@ Every research paper ends with "future directions." A thesis lives in those futu
 | Post # | Month | Anchor Book | Topic | Status | Published Date |
 |---|---|---|---|---|---|
 | 1 | 1 — Haidt | The Righteous Mind | The Defense Attorney in Your Head | Published | 2026-06-09 |
-| 2 | 1 — Haidt | The Righteous Mind | | Not started | |
+| 2 | 1 — Haidt | The Righteous Mind | The Book You Didn't Write | Published | 2026-06-27 |
 | 3 | 2 — Stewart-Williams | The Ape That Understood the Universe | | Not started | |
 | 4 | 2 — Stewart-Williams | The Ape That Understood the Universe | | Not started | |
 | 5 | 3 — Ariely | Predictably Irrational | | Not started | |
