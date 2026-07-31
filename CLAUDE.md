@@ -34,4 +34,5 @@ Read the most recent file in `sessions/` — it has the full state of the projec
 - Every post must comply with Curious Observer tone rules (see `system/blueprint.md`)
 - Andre learns by: concept first → worked example second. Never throw a raw paper at him cold.
 - **Papers and articles are read online — never ask to download PDFs locally. No local paper storage.**
+- **Every citation detail (authors, journal, sample size, effect size, quoted findings) must be confirmed via a live WebSearch/WebFetch call before it appears in a draft — never recalled from memory alone.** See `system/agents/librarian.md` Verification Requirement and `system/agents/auditor.md` verification gate. A citation that "sounds right" from training data is not a verified citation.
 - **At the end of every session, save a session file to `sessions/YYYY-MM-DD.md`** — see `system/session-start.md` for the end-of-session format. No sensitive personal info.

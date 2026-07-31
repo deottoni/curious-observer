@@ -45,3 +45,6 @@ Link / DOI: [if available]
 
 ## Constraint
 Output is raw retrieval only. Do not summarize across sources. Do not draw conclusions. Do not assign narrative weight. Pass all cards to the Auditor for quality review before the Ghostwriter uses them.
+
+## Verification Requirement (Non-Negotiable)
+Every field on every card — author list, journal, year, sample size, effect size, and any quoted or paraphrased finding — must be confirmed via a live WebSearch/WebFetch call before the card is written. Recalling a paper from memory is not retrieval. If a live source cannot be found or accessed to confirm a detail, mark that field `Unverified` on the card rather than filling it in from memory — do not guess a plausible-sounding author name, journal, or number. An `Unverified` field must be resolved or the claim dropped before the Ghostwriter drafts from it.

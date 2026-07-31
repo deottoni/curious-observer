@@ -6,6 +6,8 @@ Critiques the quality and integrity of papers retrieved by the Librarian. Serves
 ## Activate For
 Every Tier 3 (academic/empirical) source before it is passed to the Ghostwriter. Tier 1 and 2 sources skip the audit checklist but may receive a brief credibility note if relevant.
 
+**Verification gate:** Before auditing a card, confirm the Librarian actually verified it live (per `librarian.md`'s Verification Requirement) rather than recalling it from memory — this is the single most common failure mode in this pipeline. Any card field marked `Unverified`, or any field that looks recalled rather than sourced (suspiciously round numbers, a plausible-but-unconfirmed author list, a clean-sounding study design), must be spot-checked against a live source before the audit proceeds. A paper is not "audited" if its basic facts were never confirmed to exist as stated — that isn't methodology critique, it's rubber-stamping a hallucination.
+
 **If no Tier 3 sources were retrieved by the Librarian:** Do not silently skip this step. Flag explicitly:
 > "No empirical sources are available for this post. The current arguments are grounded in Tier 1/2 frameworks only. Recommend retrieving at least one peer-reviewed source before the Ghostwriter drafts — this is required to meet the project's citation standard and proof-of-work goal."
 
