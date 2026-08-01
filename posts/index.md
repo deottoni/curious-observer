@@ -7,7 +7,7 @@
 | 1 | 1 — Haidt | The Defense Attorney in Your Head | | | Published | 2026-06-09 |
 | 2 | 1 — Haidt | The Book You Didn't Write | Haidt / Sapolsky / Peterson | Zakharin & Bates (2023) | Published | 2026-06-27 |
 | 3 | 2 — Stewart-Williams | The Quiet Half | Stewart-Williams / Reeves | Gettler et al. (2011) | Published | 2026-07-31 |
-| 4 | 2 — Stewart-Williams | Not All Humans Are WEIRD | Haidt / Stewart-Williams | Henrich, Heine, & Norenzayan (2010) | Draft | |
+| 4 | 2 — Stewart-Williams | Not All Humans Are WEIRD | Haidt / Stewart-Williams | Henrich, Heine, & Norenzayan (2010) | Published | 2026-08-01 |
 | 5 | 3 — Ariely | | | | Not started | |
 | 6 | 3 — Ariely | | | | Not started | |
 | 7 | 4 — Reeves | | | | Not started | |
