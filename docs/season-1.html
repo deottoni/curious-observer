@@ -115,13 +115,6 @@
               <span class="drawer-row-label">Lens</span>
               <span class="drawer-row-value" id="dr-lens"></span>
             </div>
-            <div class="drawer-row">
-              <span class="drawer-row-label">Status</span>
-              <span class="drawer-status" id="dr-status">
-                <span class="drawer-status-dot"></span>
-                <span id="dr-status-text">Not started</span>
-              </span>
-            </div>
           </div>
         </div>
       </div>
@@ -373,16 +366,6 @@
         }).join('');
 
         document.getElementById('dr-lens').textContent = d.lens;
-
-        var statusEl = document.getElementById('dr-status');
-        var statusText = document.getElementById('dr-status-text');
-        if (d.done) {
-          statusEl.className = 'drawer-status done';
-          statusText.textContent = 'Complete';
-        } else {
-          statusEl.className = 'drawer-status';
-          statusText.textContent = 'Not started';
-        }
       }
 
       dots.forEach(function(dot, i) {
