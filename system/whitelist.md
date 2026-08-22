@@ -68,6 +68,16 @@ Every session should find a way to run Peterson's interpretive layer: meaning fr
 | **Dr. Annamaria Lusardi** | Quantitative lifetime ROI of early financial literacy |
 | **Dr. Erving Goffman** | Impression Management and situational sociological theater |
 | **Dr. Nathan Oesch** | Cognitive science data on status and social behavior |
+| **Dr. Darby Saxbe** | Neuroscience of fatherhood, hormonal/brain changes in new fathers, division-of-labor shifts in dual-earner households |
+| **Ariel Binder** | Economist (US Census Bureau / AIBM); quantitative time-use data on gender convergence in paid work and caregiving |
+
+---
+
+## Open Question — Revisit Later
+
+**Flagged 2026-08-21, during Post 5 (Ariely) planning.** The tier lists reflect minds Andre likes and finds generative — not a claim that they're objectively better or more correct than researchers/writers outside the list. During Post 5's Librarian pass, a couple of good, credentialed sources (Ariel Binder, Darby Saxbe) had to be added ad hoc before they could be used, and at least one search (Housel, for a "quiet compounding effort" framing) came up short on a hard citation and got dropped rather than forced in.
+
+Worth reconsidering at some point: should the whitelist be a hard gate for Tier 1/2 narrative voice too, or should it flex more freely when a good, credentialed source outside the list fits a post better than anyone currently on it? No decision made yet — just flagging so it doesn't get lost.
 
 ---
 

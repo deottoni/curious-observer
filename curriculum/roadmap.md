@@ -115,6 +115,8 @@ Reeves is one of the few writers on this topic who leads with data rather than g
 
 **Personal Stakes Angle:** Why do different cultures experience varying rates of family structure decay, and how do changing civilizational incentives alter male participation and performance? Reeves provides the empirical bridge between the macro structural argument and the individual-level fatherlessness data.
 
+**Topic seed, deferred from Post 5 (2026-08-21):** The broader loop of male healthcare avoidance, drinking, and isolation as downstream of divorce/reduced custody — men seeing doctors less, socializing less, more alone — specifically as a *consequence* of losing regular contact with kids post-separation, not just a cause of relationship strain. Post 5 (Ariely) touched the front half of this (provider-role failure → suppression → divorce risk) but deliberately left the back half — what happens to isolation and health behavior *after* separation — for this month, since it needs its own research pass rather than riding along as a coda.
+
 **Month 4 Milestone:** You can explain the difference between a structural explanation and a cultural explanation for a behavioral pattern. You can identify whether a claim is making a variance argument or just describing a trend.
 
 ---
@@ -171,7 +173,7 @@ Every research paper ends with "future directions." A thesis lives in those futu
 | 2 | 1 — Haidt | The Righteous Mind | The Book You Didn't Write | Published | 2026-06-27 |
 | 3 | 2 — Stewart-Williams | The Ape That Understood the Universe | The Quiet Half | Published | 2026-07-31 |
 | 4 | 2 — Stewart-Williams | The Ape That Understood the Universe | Not All Humans Are WEIRD | Published | 2026-08-01 |
-| 5 | 3 — Ariely | Predictably Irrational | | Not started | |
+| 5 | 3 — Ariely | Predictably Irrational | The List Behind the Smile | Draft | |
 | 6 | 3 — Ariely | Predictably Irrational | | Not started | |
 | 7 | 4 — Reeves | Of Boys and Men | | Not started | |
 | 8 | 4 — Reeves | Of Boys and Men | | Not started | |
