@@ -1,6 +1,6 @@
 # The List Behind the Smile
 
-*Post 5 — Month 3 (Ariely) | Status: Draft*
+*Post 5 — Month 3 (Ariely) | Status: Published*
 
 ---
 

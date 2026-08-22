@@ -8,7 +8,7 @@
 | 2 | 1 — Haidt | The Book You Didn't Write | Haidt / Sapolsky / Peterson | Zakharin & Bates (2023) | Published | 2026-06-27 |
 | 3 | 2 — Stewart-Williams | The Quiet Half | Stewart-Williams / Reeves | Gettler et al. (2011) | Published | 2026-07-31 |
 | 4 | 2 — Stewart-Williams | Not All Humans Are WEIRD | Haidt / Stewart-Williams | Henrich, Heine, & Norenzayan (2010) | Published | 2026-08-01 |
-| 5 | 3 — Ariely | The List Behind the Smile | Peterson / Easter | Gonalons-Pons & Gangl (2021) | Draft | |
+| 5 | 3 — Ariely | The List Behind the Smile | Peterson / Easter | Gonalons-Pons & Gangl (2021) | Published | 2026-08-21 |
 | 6 | 3 — Ariely | | | | Not started | |
 | 7 | 4 — Reeves | | | | Not started | |
 | 8 | 4 — Reeves | | | | Not started | |

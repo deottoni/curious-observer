@@ -173,7 +173,7 @@ Every research paper ends with "future directions." A thesis lives in those futu
 | 2 | 1 — Haidt | The Righteous Mind | The Book You Didn't Write | Published | 2026-06-27 |
 | 3 | 2 — Stewart-Williams | The Ape That Understood the Universe | The Quiet Half | Published | 2026-07-31 |
 | 4 | 2 — Stewart-Williams | The Ape That Understood the Universe | Not All Humans Are WEIRD | Published | 2026-08-01 |
-| 5 | 3 — Ariely | Predictably Irrational | The List Behind the Smile | Draft | |
+| 5 | 3 — Ariely | Predictably Irrational | The List Behind the Smile | Published | 2026-08-21 |
 | 6 | 3 — Ariely | Predictably Irrational | | Not started | |
 | 7 | 4 — Reeves | Of Boys and Men | | Not started | |
 | 8 | 4 — Reeves | Of Boys and Men | | Not started | |
