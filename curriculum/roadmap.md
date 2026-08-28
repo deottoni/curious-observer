@@ -85,7 +85,7 @@ Learn to pull three things from any paper before evaluating it: the hypothesis, 
 
 **Anchor Papers:**
 - Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science, 185*(4157), 1124–1131.
-- Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. *Econometrica, 47*(2), 263–292.
+- Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. *Econometrica, 47*(2), 263–291.
 
 **Academic Skill — Methodology and Results Sections:**
 Ariely's experiments are elegantly operationalized. Practice dissecting methodology: What exactly did they measure? How did they isolate the variable? Does the measurement actually capture what they claim? By Post #6, you should be able to describe the design of any Ariely experiment in one paragraph and identify one thing it can't prove.
@@ -174,7 +174,7 @@ Every research paper ends with "future directions." A thesis lives in those futu
 | 3 | 2 — Stewart-Williams | The Ape That Understood the Universe | The Quiet Half | Published | 2026-07-31 |
 | 4 | 2 — Stewart-Williams | The Ape That Understood the Universe | Not All Humans Are WEIRD | Published | 2026-08-01 |
 | 5 | 3 — Ariely | Predictably Irrational | The List Behind the Smile | Published | 2026-08-21 |
-| 6 | 3 — Ariely | Predictably Irrational | | Not started | |
+| 6 | 3 — Ariely | Predictably Irrational | Heads I'm Right, Tails I'm Unlucky | Published | 2026-08-28 |
 | 7 | 4 — Reeves | Of Boys and Men | | Not started | |
 | 8 | 4 — Reeves | Of Boys and Men | | Not started | |
 | 9 | 5 — Cialdini | Influence | | Not started | |

@@ -30,6 +30,7 @@ Every session should find a way to run Peterson's interpretive layer: meaning fr
 | **Dr. Andrew Huberman** | Dopamine mechanics, biological habit optimization, stress and resilience, sleep and performance |
 | **Robert Greene** | Historical strategy, base human motivations, social masks, power dynamics, prestige vs. dominance |
 | **Scott Galloway** | Macro socio-economics, modern male demographics, institutional trust collapse, mating market mechanics |
+| **Michael Lewis** | Narrative nonfiction on behavioral economics and decision science; *The Undoing Project* chronicles Kahneman & Tversky's development of prospect theory — *added 2026-08-28 for Post 6 (Ariely/Kahneman decision-science post)* |
 
 ---
 
@@ -70,6 +71,7 @@ Every session should find a way to run Peterson's interpretive layer: meaning fr
 | **Dr. Nathan Oesch** | Cognitive science data on status and social behavior |
 | **Dr. Darby Saxbe** | Neuroscience of fatherhood, hormonal/brain changes in new fathers, division-of-labor shifts in dual-earner households |
 | **Ariel Binder** | Economist (US Census Bureau / AIBM); quantitative time-use data on gender convergence in paid work and caregiving |
+| **Dr. Emily Pronin** | Social psychology, Princeton; bias blind spot — perceptions of bias in self vs. others, self/social-perception asymmetry — *added 2026-08-28 for Post 6 (Ariely/Kahneman decision-science post)* |
 
 ---
 
@@ -78,6 +80,14 @@ Every session should find a way to run Peterson's interpretive layer: meaning fr
 **Flagged 2026-08-21, during Post 5 (Ariely) planning.** The tier lists reflect minds Andre likes and finds generative — not a claim that they're objectively better or more correct than researchers/writers outside the list. During Post 5's Librarian pass, a couple of good, credentialed sources (Ariel Binder, Darby Saxbe) had to be added ad hoc before they could be used, and at least one search (Housel, for a "quiet compounding effort" framing) came up short on a hard citation and got dropped rather than forced in.
 
 Worth reconsidering at some point: should the whitelist be a hard gate for Tier 1/2 narrative voice too, or should it flex more freely when a good, credentialed source outside the list fits a post better than anyone currently on it? No decision made yet — just flagging so it doesn't get lost.
+
+**Re-raised 2026-08-28, during Post 6 (Ariely/Kahneman) planning — needs a proper fix, not just another flag.** Andre's direction, to implement after Post 6 ships:
+- The tiers should function as a **guide, not a requirement** — a starting search priority, not a hard gate.
+- The Librarian should be able to surface good, credentialed sources found *during* a post's research pass and add them to the appropriate tier after some vetting (credentialed, traceable, on-topic) — this is already the de facto pattern (Saxbe, Binder, Pronin) but isn't written into the rules yet.
+- When available, prioritize research/science (Tier 3-style empirical sources) over narrative/opinion sources — but the project's conflict-avoidant tone rule still governs *how* a research-backed claim gets phrased (e.g., "I've been thinking about..." / "What do you think about..." rather than declarative verdicts), so raising the evidence bar doesn't mean abandoning the tone rules in `blueprint.md` §2.
+- Book sources remain fine and are not being deprioritized — the shift is about not treating the whitelist as a closed list when better-fitting material turns up.
+
+**Status: deferred.** Do not rewrite this file's structure mid-post — finish Post 6 first, then come back and formalize this as an actual rule change (likely a rewrite of Usage Rule 1 below plus a documented vetting checklist for ad hoc additions).
 
 ---
 
