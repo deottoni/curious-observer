@@ -75,26 +75,31 @@ Every session should find a way to run Peterson's interpretive layer: meaning fr
 
 ---
 
-## Open Question — Revisit Later
+## Changelog
 
-**Flagged 2026-08-21, during Post 5 (Ariely) planning.** The tier lists reflect minds Andre likes and finds generative — not a claim that they're objectively better or more correct than researchers/writers outside the list. During Post 5's Librarian pass, a couple of good, credentialed sources (Ariel Binder, Darby Saxbe) had to be added ad hoc before they could be used, and at least one search (Housel, for a "quiet compounding effort" framing) came up short on a hard citation and got dropped rather than forced in.
-
-Worth reconsidering at some point: should the whitelist be a hard gate for Tier 1/2 narrative voice too, or should it flex more freely when a good, credentialed source outside the list fits a post better than anyone currently on it? No decision made yet — just flagging so it doesn't get lost.
-
-**Re-raised 2026-08-28, during Post 6 (Ariely/Kahneman) planning — needs a proper fix, not just another flag.** Andre's direction, to implement after Post 6 ships:
-- The tiers should function as a **guide, not a requirement** — a starting search priority, not a hard gate.
-- The Librarian should be able to surface good, credentialed sources found *during* a post's research pass and add them to the appropriate tier after some vetting (credentialed, traceable, on-topic) — this is already the de facto pattern (Saxbe, Binder, Pronin) but isn't written into the rules yet.
-- When available, prioritize research/science (Tier 3-style empirical sources) over narrative/opinion sources — but the project's conflict-avoidant tone rule still governs *how* a research-backed claim gets phrased (e.g., "I've been thinking about..." / "What do you think about..." rather than declarative verdicts), so raising the evidence bar doesn't mean abandoning the tone rules in `blueprint.md` §2.
-- Book sources remain fine and are not being deprioritized — the shift is about not treating the whitelist as a closed list when better-fitting material turns up.
-
-**Status: deferred.** Do not rewrite this file's structure mid-post — finish Post 6 first, then come back and formalize this as an actual rule change (likely a rewrite of Usage Rule 1 below plus a documented vetting checklist for ad hoc additions).
+**2026-08-28 — Resolved.** The tiers are formalized as a guide, not a gate (Usage Rule 1 below), with a standing checklist for ad hoc additions (see "Ad Hoc Additions" below). This closes the open question first flagged 2026-08-21 (Post 5 planning: Binder and Saxbe added ad hoc; a Housel search dropped for lack of a hard citation) and re-raised 2026-08-28 (Post 6 planning: Pronin and Lewis added ad hoc). Andre's direction: raise the evidence bar (prefer research/science over narrative sources when both exist) without loosening the conflict-avoidant tone rules in `blueprint.md` §2, and without deprioritizing books as a source type.
 
 ---
 
 ## Usage Rules
 
-1. **Peterson first, always.** Before any other framing pass, ask: what is the Peterson lens on this observation? Even if the post doesn't cite him, his interpretive layer runs underneath.
-2. **Tier 1 drives narrative.** Every post starts with a Tier 1 framing pass. The narrative hook and writing style are set by Tier 1 before any data is introduced.
-3. **Tier 3 validates, never leads.** Academic sources from Tier 3 are used to support and ground Tier 1/2 arguments — they should not set the narrative direction.
-4. **Cross-tier conflict.** If a Tier 3 empirical finding contradicts a Tier 1 thinker's argument, surface the tension explicitly using Curious Observer framing. Do not hide it.
-5. **Recency bias.** Within each tier, prefer 2022–2026 publications or recent statements over older material unless the older work is foundational (e.g., Amato's cohort studies).
+1. **Tiers are a guide, not a gate.** The lists above set search priority and starting points for the Librarian — they are not a closed list. A well-vetted source that isn't yet listed can and should be added ad hoc; see "Ad Hoc Additions" below.
+2. **Peterson first, always.** Before any other framing pass, ask: what is the Peterson lens on this observation? Even if the post doesn't cite him, his interpretive layer runs underneath.
+3. **Tier 1 drives narrative.** Every post starts with a Tier 1 framing pass. The narrative hook and writing style are set by Tier 1 before any data is introduced.
+4. **Tier 3 validates, never leads.** Academic sources from Tier 3 are used to support and ground Tier 1/2 arguments — they should not set the narrative direction.
+5. **Cross-tier conflict.** If a Tier 3 empirical finding contradicts a Tier 1 thinker's argument, surface the tension explicitly using Curious Observer framing. Do not hide it.
+6. **Recency bias.** Within each tier, prefer 2022–2026 publications or recent statements over older material unless the older work is foundational (e.g., Amato's cohort studies).
+7. **Evidence over narrative, when both exist.** If a credentialed research/empirical source and a narrative/opinion source both cover the same point, prefer the research source. This does not change *how* it gets written — a research-backed claim still goes through the project's conflict-avoidant framing (`blueprint.md` §2: "I've been thinking about...", "What do you think about...") rather than landing as a declared verdict. Books remain fully acceptable sources; this rule is about evidence quality when there's a choice, not a shift toward journal-only sourcing.
+
+---
+
+## Ad Hoc Additions — Vetting Checklist
+
+When the Librarian turns up a good source that isn't yet on this list, add it in the same session rather than forcing the post to use only pre-listed names or dropping a good source for lack of a slot. Before adding:
+
+1. **Named and credentialed.** Traceable to a real, credentialed author — not an anonymous blog, uncredited post, or unclear authorship (same bar as the Librarian's "Unacceptable Sources" list in `system/agents/librarian.md`).
+2. **Clearly on-topic** for the specific post's hypothesis — not added speculatively for a future post that hasn't been planned yet.
+3. **Evidence check** — per Usage Rule 7, prefer a research/empirical source over a narrative one if both are available and equally on-topic. A strong narrative/book source with no research competitor is still a fine addition on its own.
+4. **Log it inline** in the relevant tier table with a short note: `— added YYYY-MM-DD for Post N (topic)`, matching the existing entries for Saxbe, Binder, Pronin, and Lewis.
+
+No separate approval step beyond this checklist — the addition happens live during the Librarian step and gets logged as it happens.
