@@ -175,7 +175,7 @@ Every research paper ends with "future directions." A thesis lives in those futu
 | 4 | 2 — Stewart-Williams | The Ape That Understood the Universe | Not All Humans Are WEIRD | Published | 2026-08-01 |
 | 5 | 3 — Ariely | Predictably Irrational | The List Behind the Smile | Published | 2026-08-21 |
 | 6 | 3 — Ariely | Predictably Irrational | Heads I'm Right, Tails I'm Unlucky | Published | 2026-08-28 |
-| 7 | 4 — Reeves | Of Boys and Men | | Not started | |
+| 7 | 4 — Reeves | Of Boys and Men | The Late Start | Published | 2026-09-22 |
 | 8 | 4 — Reeves | Of Boys and Men | | Not started | |
 | 9 | 5 — Cialdini | Influence | | Not started | |
 | 10 | 5 — Cialdini | Influence | | Not started | |

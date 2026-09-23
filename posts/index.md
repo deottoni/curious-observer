@@ -10,7 +10,7 @@
 | 4 | 2 — Stewart-Williams | Not All Humans Are WEIRD | Haidt / Stewart-Williams | Henrich, Heine, & Norenzayan (2010) | Published | 2026-08-01 |
 | 5 | 3 — Ariely | The List Behind the Smile | Peterson / Easter | Gonalons-Pons & Gangl (2021) | Published | 2026-08-21 |
 | 6 | 3 — Ariely | Heads I'm Right, Tails I'm Unlucky | Housel / Easter / Peterson | Pronin & Hazel (2023) | Published | 2026-08-28 |
-| 7 | 4 — Reeves | | | | Not started | |
+| 7 | 4 — Reeves | The Late Start | Reeves / Peterson | Lenroot et al. (2007) | Published | 2026-09-22 |
 | 8 | 4 — Reeves | | | | Not started | |
 | 9 | 5 — Cialdini | | | | Not started | |
 | 10 | 5 — Cialdini | | | | Not started | |
