@@ -176,7 +176,7 @@ Every research paper ends with "future directions." A thesis lives in those futu
 | 5 | 3 — Ariely | Predictably Irrational | The List Behind the Smile | Published | 2026-08-21 |
 | 6 | 3 — Ariely | Predictably Irrational | Heads I'm Right, Tails I'm Unlucky | Published | 2026-08-28 |
 | 7 | 4 — Reeves | Of Boys and Men | The Late Start | Published | 2026-09-22 |
-| 8 | 4 — Reeves | Of Boys and Men | | Not started | |
+| 8 | 4 — Reeves | Of Boys and Men | Missing From Work | Published | 2026-09-28 |
 | 9 | 5 — Cialdini | Influence | | Not started | |
 | 10 | 5 — Cialdini | Influence | | Not started | |
 | 11 | 6 — Simler & Hanson | The Elephant in the Brain | | Not started | |

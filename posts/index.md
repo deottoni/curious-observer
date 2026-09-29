@@ -11,7 +11,7 @@
 | 5 | 3 — Ariely | The List Behind the Smile | Peterson / Easter | Gonalons-Pons & Gangl (2021) | Published | 2026-08-21 |
 | 6 | 3 — Ariely | Heads I'm Right, Tails I'm Unlucky | Housel / Easter / Peterson | Pronin & Hazel (2023) | Published | 2026-08-28 |
 | 7 | 4 — Reeves | The Late Start | Reeves / Peterson | Lenroot et al. (2007) | Published | 2026-09-22 |
-| 8 | 4 — Reeves | | | | Not started | |
+| 8 | 4 — Reeves | Missing From Work | Reeves / Peterson | Autor, Dorn, & Hanson (2019) | Published | 2026-09-28 |
 | 9 | 5 — Cialdini | | | | Not started | |
 | 10 | 5 — Cialdini | | | | Not started | |
 | 11 | 6 — Simler & Hanson | | | | Not started | |
